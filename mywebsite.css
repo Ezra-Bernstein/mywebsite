@@ -1,8 +1,16 @@
 body {
-    background-color: lightblue;
+    background-color: black;
 }
 
 h1 {
-    color: navy;
+    color: grey;
     margin-left: 20px;
 }
+
+.menu{
+    background-color: darkred;
+    border-style: rounded;
+    border-width: 3px;
+    color: grey
+}
+    
