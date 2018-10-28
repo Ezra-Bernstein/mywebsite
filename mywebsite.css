@@ -9,8 +9,9 @@ h1 {
 
 .menu{
     background-color: darkred;
+    color: grey;
     border-style: rounded;
     border-width: 3px;
-    color: grey
+    border-color: white;
 }
     
