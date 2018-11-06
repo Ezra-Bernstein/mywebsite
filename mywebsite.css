@@ -8,10 +8,10 @@ h1 {
 }
 
 .menu{
-    background-color: darkred;
-    color: grey;
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
+    border-radius: 15px;
+    border: 2px solid #000000;
+    padding: 20px; 
+    width: 50px;
+    height: 5px;    
 }
     
