@@ -1,10 +1,17 @@
-body {
-    background-color: black;
+* { font-family: "Helvetica Neue";
+
 }
 
+body {
+    background-color: black;
+    color: #999
+}
+
+
 h1 {
-    color: grey;
-    margin-left: 20px;
+    color: #777;
+    text-align: center
+    
 }
 
 ul {
@@ -28,9 +35,8 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
-    color: green
+    background-color: #777;
+    color: white
 }
 
-}
     
